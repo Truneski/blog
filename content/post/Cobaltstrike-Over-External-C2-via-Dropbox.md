@@ -85,6 +85,9 @@ The External C2 Server then polls until it receives a response from the agent, p
 The fork of external_c2_framework, along with the Dropbox transport module, have been uploaded to my Github:
 
 
+{{<youtube nTRHSh_uCcA >}}
+
+
 # Conclusion
 This was a simple a blogpost to introduce using the External C2 specs for Cobaltstrike via Dropbox. The approach mentioned in this blogpost and other references below should work for other cloud services.
 The blogpost from RhinoLabs has a good overview of how to improve security defenses including knowing your network topology and communication habits and implementing several robust host based protections.
