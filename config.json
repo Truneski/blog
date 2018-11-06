@@ -1,0 +1,37 @@
+{
+    "baseurl": "https://truneski.github.io",
+    "canonifyurls": true,
+    "languageCode": "en-us",
+    "title": "Truneski",
+    "theme": "hyde-x",
+    "paginate": 10,
+    "permalinks": {
+        "post": "/blog/:year/:month/:day/:title/"
+    },
+    "enableRobotsTXT": true,
+    "canonifyURLs": true,
+    "menu":{ 
+        "main": [
+            {
+                "name": "Posts",
+                "weight": 1,
+                "identifier": "posts",
+                "url": "/post"
+            }
+        ]
+    }
+    ,
+    "params": {
+        "Subtitle": "Gamer || Infosec Enthusiast || OSCP",
+        "tagline": "Truneski     \n*Gamer || Infosec Enthusiast || OSCP*",
+        "AuthorName": "Vince Trune",
+        "GitHubUser": "truneski",
+        "truncate": true,
+        "googleAnalytics": "UA-89933497-1",
+        "github": "https://github.com/truneski",
+        "twitter": "https://twitter.com/truneski"
+    },
+    "taxonomies": {
+        "category": "categories"
+    }
+}

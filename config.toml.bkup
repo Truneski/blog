@@ -1,0 +1,7 @@
+baseURL = "https://quavwo.github.io/"
+languageCode = "en-us"
+title = "Truneski"
+theme = "hyde-x"
+
+[permalinks]
+post = "/blog/:year/:month/:day/:title/"
